@@ -1,4 +1,6 @@
-![Portada](img/Portada.jpg?raw=true)
+<div align="center">
+    <img src="img/Portada.jpg?raw=true" alt="Portada">
+</div>
 
 # Manual Java Principiantes
 En este Repositorio encontrarás una documentación y códigos de mi propio manual para Java de nivel principiante.
