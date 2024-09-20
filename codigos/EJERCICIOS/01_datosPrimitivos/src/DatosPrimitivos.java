@@ -2,7 +2,7 @@ public class DatosPrimitivos {
     public static void main(String[] args) throws Exception {
         // Declara las variables
 
-        
+
         /*
          * Suma las variables
          * (puedes usar una variable extra como contador de goles)
@@ -15,6 +15,5 @@ public class DatosPrimitivos {
         System.out.println("Goles totales en los ultimos partidos: ");
 
         System.out.println("--------------------------------");
-
     }
 }
