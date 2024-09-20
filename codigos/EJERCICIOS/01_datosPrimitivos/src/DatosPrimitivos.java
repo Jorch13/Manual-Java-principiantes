@@ -15,6 +15,5 @@ public class DatosPrimitivos {
         System.out.println("Goles totales en los ultimos partidos: ");
 
         System.out.println("--------------------------------");
-fs
     }
 }
