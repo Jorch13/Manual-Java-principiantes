@@ -1,0 +1,92 @@
+### Hoja de Ruta en Java para DAW 1
+
+#### **1. Fundamentos de Programación**
+- **Introducción a la programación:**
+  - Conceptos básicos de programación.
+  - Instalación del JDK y configuración del entorno.
+  - Uso de un IDE (por ejemplo, IntelliJ IDEA, Eclipse).
+
+- **Sintaxis básica de Java:**
+  - Estructura de un programa en Java.
+  - Tipos de datos primitivos.
+  - Variables y constantes.
+  - Operadores (aritméticos, lógicos, de comparación).
+
+#### **2. Estructuras de Control**
+- **Condicionales:**
+  - `if`, `else if`, `else`.
+  - `switch`.
+
+- **Bucles:**
+  - `for`.
+  - `while`.
+  - `do-while`.
+
+#### **3. Arrays y Colecciones**
+- **Arrays:**
+  - Declaración y uso de arrays.
+  - Iteración sobre arrays.
+
+- **Colecciones:**
+  - Introducción a `ArrayList`, `HashMap`, `HashSet`.
+  - Operaciones básicas en colecciones (añadir, eliminar, iterar).
+
+#### **4. Programación Orientada a Objetos (POO)**
+- **Conceptos básicos:**
+  - Clases y objetos.
+  - Atributos y métodos.
+  - Constructores.
+
+- **Principios de POO:**
+  - Encapsulación.
+  - Herencia.
+  - Polimorfismo.
+  - Abstracción.
+
+- **Prácticas:**
+  - Creación de clases y objetos.
+  - Ejercicios de herencia y polimorfismo.
+
+#### **5. Manejo de Excepciones**
+- **Tipos de excepciones:**
+  - Checked y Unchecked exceptions.
+
+- **Manejo de excepciones:**
+  - `try`, `catch`, `finally`.
+  - Creación de excepciones personalizadas.
+
+#### **6. Entrada/Salida (I/O)**
+- **Lectura y escritura de archivos:**
+  - Uso de `FileReader`, `FileWriter`.
+  - Uso de `BufferedReader`, `BufferedWriter`.
+
+#### **7. Conceptos Avanzados**
+- **Clases y Métodos estáticos.**
+- **Interfaces y Clases abstractas.**
+- **Generics:**
+  - Uso de tipos genéricos en colecciones.
+
+#### **8. Desarrollo de Aplicaciones**
+- **Desarrollo de pequeñas aplicaciones:**
+  - Proyecto final que integre todos los conceptos aprendidos.
+  - Ejemplos: Aplicación de gestión de estudiantes, sistema de inventario.
+
+#### **9. Herramientas y Buenas Prácticas**
+- **Control de versiones con Git:**
+  - Conceptos básicos de Git.
+  - Uso de repositorios (GitHub, GitLab).
+
+- **Pruebas unitarias:**
+  - Introducción a JUnit.
+  - Escribir y ejecutar pruebas unitarias.
+
+- **Documentación:**
+  - Comentarios y documentación del código.
+  - Uso de Javadoc.
+
+### Recomendaciones Generales
+- **Practica constantemente**: La programación se aprende mejor practicando. Realiza ejercicios y proyectos pequeños.
+- **Consulta documentación y recursos en línea**: La documentación oficial de Java y sitios como Stack Overflow son muy útiles.
+- **Participa en comunidades**: Únete a foros y grupos de estudio para compartir conocimientos y resolver dudas.
+
+Esta hoja de ruta te ayudará a estructurar tu aprendizaje en Java y te permitirá adquirir las habilidades necesarias para desarrollarte como programador en este lenguaje. ¡Buena suerte!
