@@ -1,4 +1,4 @@
-![Portada](assets/Portada.png?raw=true)
+![Portada](img/Portada.jpg?raw=true)
 
 # Manual Php Principiantes
 En este Repositorio encontrarás una documentación y códigos de mi propio manual para PHP de nivel principiante.
