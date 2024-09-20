@@ -1,0 +1,55 @@
+<div align="center">
+    <img src="img/Portada.jpg?raw=true" alt="Portada">
+</div>
+
+# Manual Java Principiantes
+En este Repositorio encontrarás una documentación y códigos de mi propio manual para Java de nivel principiante.
+Verás que todo tiene su toque cercano y especial, para hacer más ameno el conocimiento de las bases de este lenguaje.
+La guía cubre los conceptos básicos de programación en Java.
+
+Se explican las nociones básicas sobre: 
+- Variables
+- Operadores
+- Estructuras de control
+- Funciones
+- Manejo de Arrays
+- POO
+- Excepciones
+- Entrada / salida I/O
+
+**[Enlace al PDF del manual](/teoria/Facil_Java_manual_JorgeMoya.pdf)**
+
+**[Enlace al directorio con los diferentes codigos del manual](/codigos/)**
+
+# Tabla de contenidos
+1. Introducción a mi guia
+
+_Hola, he sentido la imperiosa necesidad de hacer saber a cualquier lector, aprendiz o maestro, en el noble arte de la programación, que éste manual no es parecido a nada que haya podido ver o leer antes.
+Aquí se mezcla teoría (redactada por mí pero con un toque más serio), práctica (ejercicios basados en pensamientos que a veces no se aproximan a los típicos, pero que sirven para fijar y aprender a usar los conocimientos. Al final, el verdadero objetivo) y comentarios (realizados para amenizar aún más la experiencia que supone obtener los conocimientos necesarios para ese examen, puesto de trabajo o resolver ese gusanillo de curiosidad con la programación)._
+
+_Esto simplemente es mi manera de acercar a la gente todos los conocimientos obtenidos por mí durante estos años, de una manera en la que a mí me hubiera gustado encontrarme las cosas y dejando a tú disposición aquellas herramientas u otras guías en las que alguna vez, yo también busqué refugio.
+Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la idea de que unos simples PDFs que le enviaba, de propia cosecha, le ayudaban a estudiar, podían servir para aprender._
+
+2. Java desde cero
+3. Java en VSCode
+4. [Tipos de datos y variables](/codigos/DatosPrimitivos)
+5. [Variables](/codigos/VariablesConstantes)
+6. [Operadores](/codigos/operadores)
+7. [Estructuras de control de flujo](/codigos/estructurasFlujo)
+8. [Funciones](/codigos/funciones/)
+9. [Arrays](/codigos/arrays)
+10. Trabajo con formularios
+11. Trabajo con archivos
+12. Introducción a la Programación Orientada a Objetos (POO)
+
+## Autor: Jorch13
+
+Jorge Moya Delgado
+
+jorgemd1308@gmail.com
+
+[Perfil de LinkedIn](https://www.linkedin.com/in/jorgemoyad/)
+
+# Recursos adicionales 
+- [Manual oficial de PHP](https://www.php.net/manual/es/index.php)
+- [Guia W3Schools de PHP]()
