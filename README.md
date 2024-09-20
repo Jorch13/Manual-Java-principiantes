@@ -1,9 +1,9 @@
 ![Portada](img/Portada.jpg?raw=true)
 
-# Manual Php Principiantes
-En este Repositorio encontrarás una documentación y códigos de mi propio manual para PHP de nivel principiante.
+# Manual Java Principiantes
+En este Repositorio encontrarás una documentación y códigos de mi propio manual para Java de nivel principiante.
 Verás que todo tiene su toque cercano y especial, para hacer más ameno el conocimiento de las bases de este lenguaje.
-La guía cubre los conceptos básicos de programación en PHP.
+La guía cubre los conceptos básicos de programación en Java.
 
 Se explican las nociones básicas sobre: 
 - Variables
@@ -11,15 +11,13 @@ Se explican las nociones básicas sobre:
 - Estructuras de control
 - Funciones
 - Manejo de Arrays
-- Trabajo con formularios
-- Trabajo con archivos / ficheros
-- Introducción a la POO
+- POO
+- Excepciones
+- Entrada / salida I/O
 
-**[Enlace al PDF del manual](/teoria/Facil_JorgeMoya_Manual_php.pdf)**
+**[Enlace al PDF del manual](/teoria/Facil_Java_manual_JorgeMoya.pdf)**
 
 **[Enlace al directorio con los diferentes codigos del manual](/codigos/)**
-
-**[Enlace al vídeo para instalación de Xampp](https://www.youtube.com/watch?v=xFccIK06ofM)**
 
 # Tabla de contenidos
 1. Introducción a mi guia
@@ -30,9 +28,9 @@ Aquí se mezcla teoría (redactada por mí pero con un toque más serio), práct
 _Esto simplemente es mi manera de acercar a la gente todos los conocimientos obtenidos por mí durante estos años, de una manera en la que a mí me hubiera gustado encontrarme las cosas y dejando a tú disposición aquellas herramientas u otras guías en las que alguna vez, yo también busqué refugio.
 Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la idea de que unos simples PDFs que le enviaba, de propia cosecha, le ayudaban a estudiar, podían servir para aprender._
 
-2. Introducción a PHP
-3. Instalación y configuración del entorno de desarrollo
-4. [Tipos de datos y variables](/codigos/tiposDatos)
+2. Java desde cero
+3. Java en VSCode
+4. [Tipos de datos y variables](/codigos/DatosPrimitivos)(/codigos/VariablesConstantes)
 5. [Operadores](/codigos/operadores)
 6. [Estructuras de control de flujo](/codigos/estructurasFlujo)
 7. [Funciones](/codigos/funciones/)
