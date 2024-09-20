@@ -27,7 +27,7 @@ public class OperadoresJava {
 
     // 3. Función para Operadores Lógicos
     public static void operadoresLogicos() {
-        boolean x = true;
+        boolean x = false;
         boolean y = false;
 
         System.out.println("\n=== Operadores Lógicos ===");
