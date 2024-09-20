@@ -32,14 +32,15 @@ Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la 
 
 2. Java desde cero
 3. Java en VSCode
-4. [Tipos de datos y variables](/codigos/DatosPrimitivos)(/codigos/VariablesConstantes)
-5. [Operadores](/codigos/operadores)
-6. [Estructuras de control de flujo](/codigos/estructurasFlujo)
-7. [Funciones](/codigos/funciones/)
-8. [Arrays](/codigos/arrays)
-9. Trabajo con formularios
-10. Trabajo con archivos
-11. Introducción a la Programación Orientada a Objetos (POO)
+4. [Tipos de datos y variables](/codigos/DatosPrimitivos)
+5. [Variables](/codigos/VariablesConstantes)
+6. [Operadores](/codigos/operadores)
+7. [Estructuras de control de flujo](/codigos/estructurasFlujo)
+8. [Funciones](/codigos/funciones/)
+9. [Arrays](/codigos/arrays)
+10. Trabajo con formularios
+11. Trabajo con archivos
+12. Introducción a la Programación Orientada a Objetos (POO)
 
 ## Autor: Jorch13
 
