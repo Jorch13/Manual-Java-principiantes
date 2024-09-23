@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/Portada.jpg?raw=true" alt="Portada">
+    <img src="img/Portada.png?raw=true" alt="Portada">
 </div>
 
 # Manual Java Principiantes
