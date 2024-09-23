@@ -32,7 +32,7 @@ Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la 
 
 2. Java desde cero
 3. Java en VSCode
-4. [Tipos de datos y variables](/codigos/DatosPrimitivos)
+4. [Tipos de datos](/codigos/DatosPrimitivos)
 5. [Variables](/codigos/VariablesConstantes)
 6. [Operadores](/codigos/operadores)
 7. [Estructuras de control de flujo](/codigos/estructurasFlujo)
@@ -50,6 +50,40 @@ jorgemd1308@gmail.com
 
 [Perfil de LinkedIn](https://www.linkedin.com/in/jorgemoyad/)
 
-# Recursos adicionales 
-- [Manual oficial de PHP](https://www.php.net/manual/es/index.php)
-- [Guia W3Schools de PHP]()
+# Recursos adicionales
+
+## Documentación
+- [Documentación oficial de Java](https://docs.oracle.com/en/java/javase/)
+- [Documentación de OpenJDK](https://openjdk.org/)
+
+## Cursos en línea
+- [JetBrains Academy](https://www.jetbrains.com/academy/) - Enfocado en aprendizaje basado en proyectos, con una ruta excelente para Java.
+- [Coursera – Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) - Curso integral desde fundamentos hasta temas avanzados.
+- [Udemy – Modern Java Development](https://www.udemy.com/courses/search/?q=modern%20java&price=price-free&sort=popularity) - Cursos actualizados sobre características de Java 17+.
+
+## Libros
+- **Effective Java (3rd Edition)** de Joshua Bloch
+- **Modern Java in Action** de Raoul-Gabriel Urma
+- **Java: The Complete Reference (12th Edition)** de Herbert Schildt
+
+## Blogs y tutoriales
+- [Baeldung](https://www.baeldung.com/) - Tutoriales de Spring, Java y más.
+- [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news) - Artículos y noticias sobre Java.
+- [Java Code Geeks](https://www.javacodegeeks.com/) - Recursos y tutoriales avanzados de Java.
+
+## Comunidades y foros
+- [Stack Overflow – Java](https://stackoverflow.com/questions/tagged/java) - Para resolver dudas específicas.
+- [Reddit – Java](https://www.reddit.com/r/java/) - Comunidad activa de desarrolladores Java.
+- [The Java Ranch](https://coderanch.com/forums/java/) - Foro especializado en Java.
+
+## Herramientas y frameworks
+- [Spring Framework](https://spring.io/projects/spring-framework) - Framework líder para desarrollo en Java.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE avanzado para Java.
+- [Maven](https://maven.apache.org/) - Herramienta de construcción y gestión de proyectos.
+- [Gradle](https://gradle.org/) - Alternativa moderna a Maven para proyectos complejos.
+
+## Podcasts y videos
+- [Inside Java Podcast](https://inside.java/podcast/) - Podcast oficial de Oracle sobre Java.
+- [Java Brains (YouTube)](https://www.youtube.com/c/JavaBrainsChannel) - Tutoriales sobre Java y Spring.
+- [Devoxx (YouTube)](https://www.youtube.com/c/Devoxx) - Videos de conferencias Java y otras tecnologías.
+
