@@ -27,22 +27,26 @@ public class OperadoresJava {
 
     // 3. Función para Operadores Lógicos
     public static void operadoresLogicos() {
-        boolean x = false;
+        boolean x = true;
         boolean y = false;
 
         System.out.println("\n=== Operadores Lógicos ===");
         System.out.println("x && y: " + (x && y)); // false
         System.out.println("x || y: " + (x || y)); // true
         System.out.println("!x: " + (!x)); // false
+        System.out.println("!(3 > 2): " + !(3 > 2)); // false
     }
 
     // 4. Función para Operadores de Asignación
     public static void operadoresAsignacion() {
         int a = 10;
         a += 5; // a = a + 5
+        int b = 10;
+        b -= 5;
 
         System.out.println("\n=== Operadores de Asignación ===");
         System.out.println("Nuevo valor de a: " + a); // 15
+        System.out.println("Nuevo valor de b: " + b); // 5
     }
 
     // 5. Función para Operadores Unarios
@@ -51,6 +55,7 @@ public class OperadoresJava {
 
         System.out.println("\n=== Operadores Unarios ===");
         System.out.println("a: " + a); // 5
+        System.out.println("a: " + -a); // -5
         System.out.println("a++: " + a++); // 5 (usa a y luego incrementa)
         System.out.println("++a: " + ++a); // 7 (incrementa antes de usar)
         System.out.println("a--: " + a--); // 7 (usa a y luego decrementa)
